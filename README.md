@@ -1,14 +1,34 @@
 ## Sections
 - [Overview](#overview)
+- [What We Do](#what-we-do)
+- [Who We Work With](#who-we-work-with)
 - [Skills and Knowledge](#skills-and-knowledge)
 - [Notable Projects](#notable-projects)
-- [Who We Work With](#who-we-work-with)
 - [Technical Consultations](#technical-consultations)
 - [Connect with Us](#connect-with-us)
 
 ## Overview
 
 Zatency Technology Solutions Private Limited is an active private IT enterprise incorporated in 2026 in Pune, India. Operating as a next-generation engineering partner for production-grade artificial intelligence, Zatency designs and deploys secure AI agents, enterprise RAG platforms, and scalable SaaS solutions. By transforming unstructured data into a distinct competitive advantage, the company delivers reliable, high-performance software systems tailored to modern enterprise requirements—ranging from autonomous corporate knowledge bases to automated agentic workflows.
+
+## What We Do
+
+We bridge the gap between complex AI research and production-grade software engineering. Our core services include:
+
+*   **Custom Generative AI Architecture:** Designing and deploying secure Enterprise RAG platforms and context-aware LLM applications tailored to internal enterprise data.
+*   **Autonomous Agentic Workflows:** Building multi-agent systems (using LangGraph & CrewAI) to automate complex, multi-step analytical and operational tasks.
+*   **Production-Scale Engineering:** Implementing highly resilient distributed backends, streaming data pipelines, and real-time communication systems.
+*   **Enterprise Cloud & MLOps Infrastructure:** Architecting automated GitOps deployment pipelines, service meshes, and rigorous cloud observability systems.
+
+## Who We Work With
+
+We serve as a trusted engineering partner for modern business leaders and product teams who require rigorous, production-grade AI solutions, including:
+
+*   **SaaS Ecosystems:** Scaling existing software applications with seamless, production-ready AI feature integrations.
+*   **Ventures & Startups:** Architecting and launching robust AI Minimal Viable Products (MVPs) optimized for fast-paced market deployment.
+*   **Enterprise Automations:** Streamlining legacy enterprise operations by deploying highly automated internal workflows and agents.
+*   **Regulated Verticals:** Delivering secure, compliant systems specialized for **Healthcare, FinTech, Legal, E-Commerce, Real Estate, and Education** platforms.
+*   **Product Teams:** Engineering specialized corporate assets, including autonomous AI assistants, cross-departmental knowledge bases, and multi-agent systems.
 
 ## Skills and Knowledge
 
@@ -358,15 +378,6 @@ Here are some of the most notable projects we’ve worked on. 🌟
 *   **Our Solution:** Set up an end-to-end cloud observability system incorporating **OpenTelemetry, Prometheus, Grafana, and the ELK-Stack**, writing performance load profiles using **k6**.
 *   **The Outcome:** Reduced the engineering team's Mean Time to Detection (MTTD) of severe infrastructure errors from 42 minutes down to 14 seconds via automated Slack alerts.
 
-## Who We Work With
-
-We serve as a trusted engineering partner for modern business leaders and product teams who require rigorous, production-grade AI solutions, including:
-
-*   **SaaS Ecosystems:** Scaling existing software applications with seamless, production-ready AI feature integrations.
-*   **Ventures & Startups:** Architecting and launching robust AI Minimal Viable Products (MVPs) optimized for fast-paced market deployment.
-*   **Enterprise Automations:** Streamlining legacy enterprise operations by deploying highly automated internal workflows and agents.
-*   **Regulated Verticals:** Delivering secure, compliant systems specialized for **Healthcare, FinTech, Legal, E-Commerce, Real Estate, and Education** platforms.
-*   **Product Teams:** Engineering specialized corporate assets, including autonomous AI assistants, cross-departmental knowledge bases, and multi-agent systems.
 
 ## Technical Consultations
 
