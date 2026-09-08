@@ -362,11 +362,9 @@ Here are some of the most notable projects we’ve worked on. 🌟
 > [!TIP]
 > Feel free to connect with us or learn more about us on the following platforms:
 
-<ul>
-  <li><a href="https://zatency.com" target="_blank" rel="noopener noreferrer">Zatency Website</a></li>
-  <li><a href="https://www.linkedin.com/company/zatency/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-  <li><a href="mailto:support@zatency.com">Email</a></li>
-</ul>
+- 🌐 **Official Website:** [zatency.com](https://zatency.com)
+- 👔 **LinkedIn Business Page:** [Zatency on LinkedIn](https://www.linkedin.com/company/zatency/)
+- 📧 **Inquiries & Proposals:** [support@zatency.com](mailto:support@zatency.com)
 
 ---
 
