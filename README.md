@@ -304,7 +304,57 @@ The technical stack, domain expertise, and core engineering workflows we leverag
 
 ## Notable Projects
 
-Here are some of the most notable projects We’ve worked on. 🌟
+Here are some of the most notable projects we’ve worked on. 🌟
+
+### 🤖 1. Multi-Agent Corporate Intelligence Platform (GenAI & Automation)
+*   **The Business Problem:** A consulting firm was wasting 25+ manual engineering and analyst hours per week tracking competitor pricing, software updates, and regulatory filings.
+*   **Our Solution:** Developed an orchestrator using **LangGraph, CrewAI, and Model Context Protocol (MCP)** to spin up autonomous agents that safely browse internal databases, fetch web records, synthesize insights, and generate executive summaries.
+*   **The Outcome:** Automated 95% of the research pipeline, reducing generation time from hours to under 3 minutes with zero-downtime microservice execution.
+
+### 🔒 2. Enterprise-Grade Secure RAG Engine (Generative AI & Data)
+*   **The Business Problem:** A Financial Services client needed a semantic search engine to query 50,000+ internal compliance PDFs without leaking sensitive corporate data to public LLM APIs.
+*   **Our Solution:** Built a completely air-gapped, high-throughput RAG infrastructure utilizing a self-hosted **vLLM Inference Server**, **LangChain**, and **pgvector (PostgreSQL)** for secure storage.
+*   **The Outcome:** Delivered an internal AI compliance assistant processing 10k+ daily queries under 800ms latency, keeping 100% of corporate data within the client's private AWS VPC.
+
+### ⚙️ 3. Distributed E-Commerce Order Orchestration Engine (Backend Architecture)
+*   **The Business Problem:** A high-traffic retail client suffered from system crashes and untrackable partial state failures when processing split checkouts during peak sales.
+*   **Our Solution:** Redesigned their core backend using **Nest.js, Go (Kitex/Hertz), and Temporal** for robust distributed transaction orchestration alongside **Apache Kafka** for event-driven message queuing.
+*   **The Outcome:** Eliminated partial-state order failures entirely, ensuring 100% reliability for over 2 Million concurrent daily requests.
+
+### 📊 4. Real-Time Predictive Supply Chain Dashboard (Data & Analytics)
+*   **The Business Problem:** A logistics company lacked real-time visibility into vehicle sensor data and historical trends, causing preventable equipment failures and delivery delays.
+*   **Our Solution:** Designed an end-to-end data ingestion pipeline feeding streaming sensor data via **RabbitMQ** into **ClickHouse**. Leveraged **XGBoost and Scikit-Learn** to forecast equipment failures and displayed live insights on a **FastAPI + Streamlit** interface.
+*   **The Outcome:** Enabled predictive vehicle servicing, decreasing roadside mechanical breakdowns by 38% and optimizing route planning across 500+ daily transits.
+
+### 👁️ 5. Automated Edge-AI Industrial Inspection System (Computer Vision)
+*   **The Business Problem:** A manufacturing client was relying on slow, manual optical inspection to detect defects on a fast-moving assembly line, resulting in missed flaws.
+*   **Our Solution:** Implemented a hardware-accelerated computer vision pipeline utilizing **YOLOv10**, **NVIDIA DeepStream**, and **TensorRT** deployed on edge devices to process high-fps video feeds.
+*   **The Outcome:** Achieved real-time object tracking and 99.4% defect detection accuracy at line speeds, reducing waste costs by $15,000 monthly.
+
+### ☁️ 6. Zero-Downtime Multi-Region GitOps Migration (Cloud & Infrastructure)
+*   **The Business Problem:** A SaaS enterprise struggled with configuration drift and manual, error-prone software deployments that caused intermittent application outages.
+*   **Our Solution:** Restructured their multi-tenant cloud infrastructure into **Kubernetes (k3s/K8s)** managed entirely through GitOps automation using **Argo CD, Argo Rollouts, and Terraform**.
+*   **The Outcome:** Enabled safe Canary and Blue-Green deployments, driving down product time-to-market and lowering production deployment errors by 92%.
+
+### 📡 7. Secure Video Streaming & Telehealth Platform (Real-Time Communication)
+*   **The Business Problem:** A Healthcare startup needed a peer-to-peer video architecture to connect patients with doctors securely while complying with strict healthcare data laws.
+*   **Our Solution:** Architected a low-latency WebRTC and RTSP ingestion server using **Red5 Media Server** and **FastAPI**, adding rigorous end-to-end token encryption via **Auth0**.
+*   **The Outcome:** Handled over 15,000 monthly concurrent clinical video calls with sub-200ms latency and 100% regulatory compliance.
+
+### 🛡️ 8. Cloud-Native Zero Trust Microservices Mesh (Security & Operations)
+*   **The Business Problem:** A growing FinTech company needed to enforce strict security governance, request filtering, and access boundaries between 40+ containerized microservices.
+*   **Our Solution:** Installed an **Istio Service Mesh** across their cloud cluster, enforcing mandatory mTLS and policy management using **Open Policy Agent (OPA) and Kyverno**.
+*   **The Outcome:** Attained 100% isolation of payment processing microservices, easily passing compliance audits while logging all cross-service traffic natively.
+
+### 📈 9. Multi-Tenant Enterprise SaaS Web Dashboard (Frontend Engineering)
+*   **The Business Problem:** A legacy enterprise analytics software UI was slow to load, hard to update, and difficult to white-label for new B2B enterprise tenants.
+*   **Our Solution:** Rebuilt the frontend web experience into a **Micro-Frontends Architecture** using **Next.js (App Router)**, **Turborepo**, **TailwindCSS**, and **Shadcn UI**.
+*   **The Outcome:** Cut initial page-load times by 65%, allowing account managers to spin up completely personalized, white-labeled client workspaces in under 60 seconds.
+
+### 🔍 10. Automated Live Log Analysis & Observability Pipeline (DevOps & Testing)
+*   **The Business Problem:** An engineering team lacked centralized visibility, making it difficult to debug system anomalies across disparate container clouds before they impacted users.
+*   **Our Solution:** Set up an end-to-end cloud observability system incorporating **OpenTelemetry, Prometheus, Grafana, and the ELK-Stack**, writing performance load profiles using **k6**.
+*   **The Outcome:** Reduced the engineering team's Mean Time to Detection (MTTD) of severe infrastructure errors from 42 minutes down to 14 seconds via automated Slack alerts.
 
 
 ## Connect with us
