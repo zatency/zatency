@@ -2,6 +2,8 @@
 - [Overview](#overview)
 - [Skills and Knowledge](#skills-and-knowledge)
 - [Notable Projects](#notable-projects)
+- [Who We Work With](#who-we-work-with)
+- [Technical Consultations](#technical-consultations)
 - [Connect with Us](#connect-with-us)
 
 ## Overview
@@ -356,6 +358,20 @@ Here are some of the most notable projects we’ve worked on. 🌟
 *   **Our Solution:** Set up an end-to-end cloud observability system incorporating **OpenTelemetry, Prometheus, Grafana, and the ELK-Stack**, writing performance load profiles using **k6**.
 *   **The Outcome:** Reduced the engineering team's Mean Time to Detection (MTTD) of severe infrastructure errors from 42 minutes down to 14 seconds via automated Slack alerts.
 
+## Who We Work With
+
+We serve as a trusted engineering partner for modern business leaders and product teams who require rigorous, production-grade AI solutions, including:
+
+*   **SaaS Ecosystems:** Scaling existing software applications with seamless, production-ready AI feature integrations.
+*   **Ventures & Startups:** Architecting and launching robust AI Minimal Viable Products (MVPs) optimized for fast-paced market deployment.
+*   **Enterprise Automations:** Streamlining legacy enterprise operations by deploying highly automated internal workflows and agents.
+*   **Regulated Verticals:** Delivering secure, compliant systems specialized for **Healthcare, FinTech, Legal, E-Commerce, Real Estate, and Education** platforms.
+*   **Product Teams:** Engineering specialized corporate assets, including autonomous AI assistants, cross-departmental knowledge bases, and multi-agent systems.
+
+## Technical Consultations
+
+*   **NDA Execution:** Standard mutual non-disclosure agreements (NDAs) signed and processed within **24 hours** to protect your proprietary data and intellectual property.
+*   **Engineering Schedules:** Active developer and architecture availability across **US PST** and **India IST** time zones, ensuring seamless synchronization with your internal product teams.
 
 ## Connect with us
 
